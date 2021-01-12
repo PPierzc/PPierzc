@@ -8,6 +8,7 @@ I'm interested in reinforcement learning, neural systems, deep learning and many
 I have a blog on [neuroscience and machine learning](https://ppierzc.github.io) and write technical posts about web technologies on [Teacode's blog](https://teacode.io/blog/).
 
 ##### My Latest Posts
+- 📈 [What is Linear Regression?](https://ppierzc.github.io/linear-regression/)
 - 📧 [The Right Way to Send Emails with Feathers.js](https://teacode.io/blog/the-right-way-to-send-emails-with-feathers-js)
 - ⛵ [AI learns to sail upwind](https://ppierzc.github.io/ai-learns-to-sail-upwind/)
 - 📈 [What is a Loss Function?](https://ppierzc.github.io/loss-functions-regression/)
