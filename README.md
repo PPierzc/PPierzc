@@ -3,7 +3,7 @@
 I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Tübingen, Germany**, where I'm pursuing a Masters degree in *Neural Information Processing* at the University of Tübingen.
 I'm interested in reinforcement learning, neural systems, deep learning and many others.
 
-🔭 I’m currently working on *Neural System Identification with Deep Neural Networks*.
+🔭 I’m currently working on *The Influence of Serotonin on Patience*.
 
 I have a blog on [neuroscience and machine learning](https://ppierzc.github.io) and write technical posts about web technologies on [Teacode's blog](https://teacode.io/blog/).
 
