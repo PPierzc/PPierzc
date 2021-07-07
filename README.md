@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Tübingen, Germany**, where I'm pursuing a Masters degree in *Neural Information Processing* at the University of Tübingen.
-I'm interested in reinforcement learning, neural systems, deep learning and many others.
+I'm interested in reinforcement learning, computer vision, neural systems, deep learning and many others.
 
 🔭 I’m currently working on *The Influence of Serotonin on Patience*.
 
