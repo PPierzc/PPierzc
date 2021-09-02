@@ -3,7 +3,7 @@
 I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Göttingen, Germany**, where I'm pursuing a PhD degree at SinzLab.
 I'm interested in computer vision, pose estimation, neural systems, deep learning, reinforcement learning and many others.
 
-🔭 I’m currently working on *Pose estimation*.
+🔭 I’m currently working on *pose estimation in rodents*.
 
 I have a blog on [neuroscience and machine learning](https://ppierzc.github.io) and write technical posts about web technologies on [Teacode's blog](https://teacode.io/blog/).
 
