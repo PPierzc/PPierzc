@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Göttingen, Germany**, where I'm pursuing a PhD degree at SinzLab.
+I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Göttingen, Germany**, where I'm pursuing a PhD degree at [SinzLab](https://sinzlab.org).
 I'm interested in computer vision, pose estimation, neural systems, deep learning, reinforcement learning and many others.
 
-🔭 I’m currently working on *pose estimation in rodents*.
+🔭 I’m currently working on *probabilistic models for pose estimation* 💃.
 
-I have a blog on [neuroscience and machine learning](https://ppierzc.github.io) and write technical posts about web technologies on [Teacode's blog](https://teacode.io/blog/).
+I write up my ideas and dig deeper into some Machine Learning concepts on [Perceptron.blog](https://perceptron.blog). I sometimes explore some more technical stuff for web technologies on [Teacode's blog](https://teacode.io/author/pawelpierzchlewicz/).
 
-##### My Latest Posts
+##### Some Featured Posts
+- ✨ [Sampling with Langevin Monte Carlo](https://perceptron.blog/langevin-dynamics/)
 - 🚀 [Deploy Your Tensorflow.js Model Using AWS Lambda
 ](https://teacode.io/blog/deploying-your-ml-model-using-aws-lambda)
 - 📈 [What is Linear Regression?](https://ppierzc.github.io/linear-regression/)
-- 📧 [The Right Way to Send Emails with Feathers.js](https://teacode.io/blog/the-right-way-to-send-emails-with-feathers-js)
 - ⛵ [AI learns to sail upwind](https://ppierzc.github.io/ai-learns-to-sail-upwind/)
-- 📈 [What is a Loss Function?](https://ppierzc.github.io/loss-functions-regression/)
-- 📉 [What is gradient descent?](https://ppierzc.github.io/gradient-descent/)
+- 🧗 [What is gradient descent?](https://ppierzc.github.io/gradient-descent/)
 
 
 <!--
