@@ -26,6 +26,6 @@ skills = {
 🎮 Fun fact: Built an AI that learns to sail upwind | 🌍 Based in Gdańsk, Poland
 
 <div align="center">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppierzc&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppierzc&theme=dracula&hide=jupyter%20notebook" alt="Top Languages" />
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=ppierzc&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
 </div>
