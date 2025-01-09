@@ -1,32 +1,31 @@
-### Hi there 👋
+# Hi there! I'm Paweł 👋 
 
-I'm Paweł, a computational neuroscientist from 🇵🇱 **Warsaw, Poland**, currently living in 🇩🇪 **Göttingen, Germany**, where I'm pursuing a PhD degree at [SinzLab](https://sinzlab.org).
-I'm interested in computer vision, pose estimation, neural systems, deep learning, reinforcement learning and many others.
+<div align="center">
 
-🔭 I’m currently working on *probabilistic models for pose estimation* 💃.
+## 🚀 What I'm Up To
+Leading AI initiatives at [Teacode](https://teacode.io) where we turn cutting-edge AI research into real-world solutions. Former computational neuroscientist with a passion for computer vision, probabilistic modeling, and building scalable AI systems.
 
-I write up my ideas and dig deeper into some Machine Learning concepts on [Perceptron.blog](https://perceptron.blog). I sometimes explore some more technical stuff for web technologies on [Teacode's blog](https://teacode.io/author/pawelpierzchlewicz/).
+[![Blog](https://img.shields.io/badge/Blog-Perceptron-blue?style=flat-square&logo=medium)](https://perceptron.blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ppierzc)
 
-##### Some Featured Posts
+</div>
+
+```python
+skills = {
+    '🤖 AI/ML': ['PyTorch', 'Computer Vision'],
+    '🛠️ Tools': ['MLOps', 'Cloud', 'Scalable Systems'],
+    '🧠 Research': ['Probabilistic Models', 'Neural Networks', 'Pose Estimation']
+}
+```
+
+## 📚 Latest Posts
 - ✨ [Sampling with Langevin Monte Carlo](https://perceptron.blog/langevin-dynamics/)
-- 🚀 [Deploy Your Tensorflow.js Model Using AWS Lambda
-](https://teacode.io/blog/deploying-your-ml-model-using-aws-lambda)
-- 📈 [What is Linear Regression?](https://ppierzc.github.io/linear-regression/)
+- 🚀 [Deploy Your Tensorflow.js Model Using AWS Lambda](https://teacode.io/blog/deploying-your-ml-model-using-aws-lambda)
 - ⛵ [AI learns to sail upwind](https://ppierzc.github.io/ai-learns-to-sail-upwind/)
-- 🧗 [What is gradient descent?](https://ppierzc.github.io/gradient-descent/)
 
+🎮 Fun fact: Built an AI that learns to sail upwind | 🌍 Based in Gdańsk, Poland
 
-<!--
-**PPierzc/PPierzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppierzc&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=ppierzc&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+</div>
